@@ -2,4 +2,6 @@ commit 1
 commit 2
 commit 3 (new branch)
 commit 4 (new branch)
-commit 5 (new branch)
+commit 5 
+commit 6 (new branch)
+commit 7 (new branch)
